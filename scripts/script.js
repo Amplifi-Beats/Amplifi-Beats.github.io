@@ -60,3 +60,5 @@ document.addEventListener('DOMContentLoaded', function() {
         .getElementById('play-button')
         .addEventListener('click', wavesurferWithOptions.playPause.bind(wavesurferWithOptions));
 });
+
+
